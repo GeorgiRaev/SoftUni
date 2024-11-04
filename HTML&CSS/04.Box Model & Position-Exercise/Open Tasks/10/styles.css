@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.viewport{
+    height: 100vh;
+}
+
+.viewport:nth-child(1) {
+    background: rgb(9, 9, 121);
+    background: linear-gradient(90deg, rgba(9, 9, 121, 1) 0%, rgba(0, 254, 144, 1) 23%);
+    
+    position: absolute;
+}
+
+.viewport:nth-child(2) {
+    background: rgb(194, 61, 203);
+    background: linear-gradient(90deg, rgba(194, 61, 203, 1) 0%, rgba(254, 102, 0, 1) 47%);
+    
+    position: absolute;
+}

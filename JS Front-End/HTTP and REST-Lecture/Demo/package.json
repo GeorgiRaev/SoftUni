@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Demo.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Georgi Raev",
+  "license": "ISC"
+}
